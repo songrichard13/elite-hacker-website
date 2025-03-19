@@ -3,3 +3,17 @@
     color: skyblue;
 }
 
+#banner
+{
+    border-radius: 7px;
+}
+
+#principal
+{
+    border-radius: 7px;
+}
+
+#seection
+{
+    color: yellow;
+}
